@@ -27,7 +27,7 @@ help::
 # Build the master SFtable
 
 master_fs:
-		(cd SFDATA; sf_master.sh)
+		(cd SFDATA; ./sf_master.sh)
 
 # Create the GSFML release
 
